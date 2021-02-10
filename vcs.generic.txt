@@ -1,10 +1,10 @@
 {
   "swVersion": "1.1",
   "swMandatory": false,
-  "swRelease": "2021-02-10T14:00:00Z",
+  "swRelease": "2021-02-10T16:00:00Z",
   "swURL": "https://github.com/ghfonseca/AG_Tomadas/raw/main/AG_Tomadas_v11.ino.bin",
   "fsVersion": "1.1",
   "fsMandatory": false,
-  "fsRelease": "2021-02-10T14:00:00Z",
+  "fsRelease": "2021-02-10T16:00:00Z",
   "fsURL": "https://github.com/ghfonseca/AG_Tomadas/raw/main/AG_Tomadas_v11.spiffs.bin"
 }
