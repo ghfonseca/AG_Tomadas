@@ -1,10 +1,10 @@
 {
   "swVersion": "1.1",
   "swMandatory": false,
-  "swRelease": "2021-02-10T16:00:00Z",
-  "swURL": "https://github.com/ghfonseca/AG_Tomadas/raw/main/AG_Tomadas_v11.ino.bin",
+  "swRelease": "2021-02-10T16:05:00Z",
+  "swURL": "https://dl.dropboxusercontent.com/s/n889sh71y0gh0li/AG_Tomadas_ino_v1_1.bin",
   "fsVersion": "1.1",
   "fsMandatory": false,
-  "fsRelease": "2021-02-10T16:00:00Z",
-  "fsURL": "https://github.com/ghfonseca/AG_Tomadas/raw/main/AG_Tomadas_v11.spiffs.bin"
+  "fsRelease": "2021-02-10T16:05:00Z",
+  "fsURL": "https://dl.dropboxusercontent.com/s/y2giu0xjbq6c1ad/AG_Tomadas_spiffs_v1_1.bin"
 }
