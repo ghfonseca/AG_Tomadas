@@ -1,9 +1,9 @@
 {
-  "swVersion": "1.1",
+  "swVersion": "1.2",
   "swMandatory": false,
   "swRelease": "2021-02-10T16:05:00Z",
   "swURL": "https://dl.dropboxusercontent.com/s/n889sh71y0gh0li/AG_Tomadas_ino_v1_1.bin",
-  "fsVersion": "1.1",
+  "fsVersion": "1.2",
   "fsMandatory": false,
   "fsRelease": "2021-02-10T16:05:00Z",
   "fsURL": "https://dl.dropboxusercontent.com/s/y2giu0xjbq6c1ad/AG_Tomadas_spiffs_v1_1.bin"
